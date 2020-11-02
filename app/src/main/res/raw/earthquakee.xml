@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EarthquakeOutdoorsShelter>
+  <head>
+    <totalCount>10387</totalCount>
+    <numOfRows>50</numOfRows>
+    <pageNo>1</pageNo>
+    <type>XML</type>
+    <RESULT>
+      <resultCode>INFO-0</resultCode>
+      <resultMsg>정상</resultMsg>
+    </RESULT>
+  </head>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>11</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>마산서중학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812513400105340020075220</rdnmadr_cd>
+    <bdong_cd>4812513400</bdong_cd>
+    <hdong_cd>4812553000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 월영동 534-20</dtl_adres>
+    <fclty_ar>3383.0000</fclty_ar>
+    <xcord>128.557163</xcord>
+    <ycord>35.178129</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>16</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>무학초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812514000101190009081196</rdnmadr_cd>
+    <bdong_cd>4812514000</bdong_cd>
+    <hdong_cd>4812558000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 자산동 119-9</dtl_adres>
+    <fclty_ar>4662.0000</fclty_ar>
+    <xcord>128.567653</xcord>
+    <ycord>35.203174</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>14</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>월영초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812514100100060000076785</rdnmadr_cd>
+    <bdong_cd>4812514100</bdong_cd>
+    <hdong_cd>4812556500</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 장군동1가 6</dtl_adres>
+    <fclty_ar>3931.0000</fclty_ar>
+    <xcord>128.562527</xcord>
+    <ycord>35.191289</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>9</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>현동초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812515900104900000072756</rdnmadr_cd>
+    <bdong_cd>4812515900</bdong_cd>
+    <hdong_cd>4812551000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 현동 490</dtl_adres>
+    <fclty_ar>3848.0000</fclty_ar>
+    <xcord>128.556887</xcord>
+    <ycord>35.146411</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>27</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>구산초등학교 구서분교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd></rdnmadr_cd>
+    <bdong_cd>4812531022</bdong_cd>
+    <hdong_cd>4812531022</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 구산면 마전리 82</dtl_adres>
+    <fclty_ar>5944.0000</fclty_ar>
+    <xcord>128.538010</xcord>
+    <ycord>35.121078</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>26</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>구산초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd></rdnmadr_cd>
+    <bdong_cd>4812531024</bdong_cd>
+    <hdong_cd>4812531024</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 구산면 수정리 594-1</dtl_adres>
+    <fclty_ar>3393.0000</fclty_ar>
+    <xcord>128.579316</xcord>
+    <ycord>35.120256</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>24</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>구남중학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd></rdnmadr_cd>
+    <bdong_cd>4812531027</bdong_cd>
+    <hdong_cd>4812531027</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 구산면 반동리 383-0</dtl_adres>
+    <fclty_ar>3083.0000</fclty_ar>
+    <xcord>128.586807</xcord>
+    <ycord>35.086780</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>28</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>반동초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812531027104110000056654</rdnmadr_cd>
+    <bdong_cd>4812531027</bdong_cd>
+    <hdong_cd>4812531000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 구산면 반동리 411-0</dtl_adres>
+    <fclty_ar>5426.0000</fclty_ar>
+    <xcord>128.584030</xcord>
+    <ycord>35.087241</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>5</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>우산초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812532021104290001069842</rdnmadr_cd>
+    <bdong_cd>4812532021</bdong_cd>
+    <hdong_cd>4812532000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 진동면 고현리 429-1</dtl_adres>
+    <fclty_ar>2770.0000</fclty_ar>
+    <xcord>128.479132</xcord>
+    <ycord>35.104643</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>3</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>마산삼진고등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812532024105330005060078</rdnmadr_cd>
+    <bdong_cd>4812532024</bdong_cd>
+    <hdong_cd>4812532000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 진동면 진동리 533-5</dtl_adres>
+    <fclty_ar>6760.0000</fclty_ar>
+    <xcord>128.488779</xcord>
+    <ycord>35.118628</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>2</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>진동초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812532024101130001059637</rdnmadr_cd>
+    <bdong_cd>4812532024</bdong_cd>
+    <hdong_cd>4812532000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 진동면 진동리 113-1</dtl_adres>
+    <fclty_ar>6230.0000</fclty_ar>
+    <xcord>128.490190</xcord>
+    <ycord>35.118457</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>4</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>마산삼진중학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812532024102410001067271</rdnmadr_cd>
+    <bdong_cd>4812532024</bdong_cd>
+    <hdong_cd>4812532000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 진동면 진동리 241-1</dtl_adres>
+    <fclty_ar>4517.0000</fclty_ar>
+    <xcord>128.488844</xcord>
+    <ycord>35.114218</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>6</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>하북초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812533021100790001066516</rdnmadr_cd>
+    <bdong_cd>4812533021</bdong_cd>
+    <hdong_cd>4812533000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 진북면 지산리 79-1</dtl_adres>
+    <fclty_ar>2905.0000</fclty_ar>
+    <xcord>128.469956</xcord>
+    <ycord>35.115952</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>8</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>진전초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812534025100770001062932</rdnmadr_cd>
+    <bdong_cd>4812534025</bdong_cd>
+    <hdong_cd>4812534000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 진전면 곡안리 77-1</dtl_adres>
+    <fclty_ar>2006.0000</fclty_ar>
+    <xcord>128.415117</xcord>
+    <ycord>35.109934</ycord>
+  </row>
+  <row>
+    <arcd>4812500000</arcd>
+    <acmdfclty_sn>7</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산합포구</sgg_nm>
+    <vt_acmdfclty_nm>진전중학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812534030108920000062149</rdnmadr_cd>
+    <bdong_cd>4812534030</bdong_cd>
+    <hdong_cd>4812534000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산합포구 진전면 오서리 892</dtl_adres>
+    <fclty_ar>3620.0000</fclty_ar>
+    <xcord>128.409401</xcord>
+    <ycord>35.104128</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>22</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>구암고등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710100100450006088691</rdnmadr_cd>
+    <bdong_cd>4812710100</bdong_cd>
+    <hdong_cd>4812761000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 구암동 44-5</dtl_adres>
+    <fclty_ar>3151.0000</fclty_ar>
+    <xcord>128.596418</xcord>
+    <ycord>35.246924</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>23</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>중앙초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710100100090002024651</rdnmadr_cd>
+    <bdong_cd>4812710100</bdong_cd>
+    <hdong_cd>4812152000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 구암동 9-2</dtl_adres>
+    <fclty_ar>2100.0000</fclty_ar>
+    <xcord>128.602088</xcord>
+    <ycord>35.248404</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>19</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>구암초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd></rdnmadr_cd>
+    <bdong_cd>4812710100</bdong_cd>
+    <hdong_cd>4812710100</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 구암동 260</dtl_adres>
+    <fclty_ar>4600.0000</fclty_ar>
+    <xcord>128.594608</xcord>
+    <ycord>35.257892</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>20</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>창원예술학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710100113340000087936</rdnmadr_cd>
+    <bdong_cd>4812710100</bdong_cd>
+    <hdong_cd>4812760000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 구암동 1334</dtl_adres>
+    <fclty_ar>3100.0000</fclty_ar>
+    <xcord>128.597923</xcord>
+    <ycord>35.256458</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>21</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>구암중학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710100113460000087709</rdnmadr_cd>
+    <bdong_cd>4812710100</bdong_cd>
+    <hdong_cd>4812760000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 구암동 1346</dtl_adres>
+    <fclty_ar>3302.0000</fclty_ar>
+    <xcord>128.596918</xcord>
+    <ycord>35.255854</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>12</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>내서초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710200105500001083112</rdnmadr_cd>
+    <bdong_cd>4812710200</bdong_cd>
+    <hdong_cd>4812755000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 두척동 550-1</dtl_adres>
+    <fclty_ar>3795.0000</fclty_ar>
+    <xcord>128.545405</xcord>
+    <ycord>35.237827</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>24</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>봉덕초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710300104350003091187</rdnmadr_cd>
+    <bdong_cd>4812710300</bdong_cd>
+    <hdong_cd>4812757000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 봉암동 435-3</dtl_adres>
+    <fclty_ar>3311.0000</fclty_ar>
+    <xcord>128.594701</xcord>
+    <ycord>35.222083</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>9</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>석전초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710400102430001086271</rdnmadr_cd>
+    <bdong_cd>4812710400</bdong_cd>
+    <hdong_cd>4812754500</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 석전동 243-1</dtl_adres>
+    <fclty_ar>3613.0000</fclty_ar>
+    <xcord>128.576450</xcord>
+    <ycord>35.232089</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>10</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>북성초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710400102030007086082</rdnmadr_cd>
+    <bdong_cd>4812710400</bdong_cd>
+    <hdong_cd>4812754500</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 석전동 203-7</dtl_adres>
+    <fclty_ar>3718.0000</fclty_ar>
+    <xcord>128.570591</xcord>
+    <ycord>35.231570</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>14</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>한일여자고등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710500108880009086414</rdnmadr_cd>
+    <bdong_cd>4812710500</bdong_cd>
+    <hdong_cd>4812757000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 양덕동 888-9</dtl_adres>
+    <fclty_ar>6133.0000</fclty_ar>
+    <xcord>128.579101</xcord>
+    <ycord>35.229377</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>13</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>양덕초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710500100420000092450</rdnmadr_cd>
+    <bdong_cd>4812710500</bdong_cd>
+    <hdong_cd>4812756000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 양덕동 42</dtl_adres>
+    <fclty_ar>4363.0000</fclty_ar>
+    <xcord>128.588198</xcord>
+    <ycord>35.233459</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>17</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>팔룡초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710600100170004090268</rdnmadr_cd>
+    <bdong_cd>4812710600</bdong_cd>
+    <hdong_cd>4812759000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 합성동 17-4</dtl_adres>
+    <fclty_ar>4807.0000</fclty_ar>
+    <xcord>128.594041</xcord>
+    <ycord>35.241874</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>18</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>양덕중학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710600100170005090267</rdnmadr_cd>
+    <bdong_cd>4812710600</bdong_cd>
+    <hdong_cd>4812759000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 합성동 17-5</dtl_adres>
+    <fclty_ar>4331.0000</fclty_ar>
+    <xcord>128.595355</xcord>
+    <ycord>35.242330</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>15</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>합성초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710600100760005089356</rdnmadr_cd>
+    <bdong_cd>4812710600</bdong_cd>
+    <hdong_cd>4812758000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 합성동 76-5</dtl_adres>
+    <fclty_ar>3263.0000</fclty_ar>
+    <xcord>128.581953</xcord>
+    <ycord>35.242442</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>16</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>경남혜림학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710600105990000089135</rdnmadr_cd>
+    <bdong_cd>4812710600</bdong_cd>
+    <hdong_cd>4812758000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 합성동 599</dtl_adres>
+    <fclty_ar>1587.0000</fclty_ar>
+    <xcord>128.580376</xcord>
+    <ycord>35.243388</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>11</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>합포여자중학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710700104580009082857</rdnmadr_cd>
+    <bdong_cd>4812710700</bdong_cd>
+    <hdong_cd>4812755000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 회성동 458-9</dtl_adres>
+    <fclty_ar>3958.0000</fclty_ar>
+    <xcord>128.561673</xcord>
+    <ycord>35.231880</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>5</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>무학여자고등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710800101450001085865</rdnmadr_cd>
+    <bdong_cd>4812710800</bdong_cd>
+    <hdong_cd>4812751000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 회원동 145-1</dtl_adres>
+    <fclty_ar>4134.0000</fclty_ar>
+    <xcord>128.574952</xcord>
+    <ycord>35.222668</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>7</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>동중학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710800103760001084178</rdnmadr_cd>
+    <bdong_cd>4812710800</bdong_cd>
+    <hdong_cd>4812752000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 회원동 376-1</dtl_adres>
+    <fclty_ar>9873.0000</fclty_ar>
+    <xcord>128.567952</xcord>
+    <ycord>35.220760</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>6</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>회원초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710800103930001084151</rdnmadr_cd>
+    <bdong_cd>4812710800</bdong_cd>
+    <hdong_cd>4812752000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 회원동 393-1</dtl_adres>
+    <fclty_ar>6413.0000</fclty_ar>
+    <xcord>128.566743</xcord>
+    <ycord>35.219444</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>8</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>교동초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812710800106390002083935</rdnmadr_cd>
+    <bdong_cd>4812710800</bdong_cd>
+    <hdong_cd>4812752000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 회원동 639-2</dtl_adres>
+    <fclty_ar>3672.0000</fclty_ar>
+    <xcord>128.562271</xcord>
+    <ycord>35.220990</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>4</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>호계초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812725023100710001057953</rdnmadr_cd>
+    <bdong_cd>4812725023</bdong_cd>
+    <hdong_cd>4812725000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 내서읍 호계리 71-1</dtl_adres>
+    <fclty_ar>1643.0000</fclty_ar>
+    <xcord>128.522634</xcord>
+    <ycord>35.265160</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>2</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>삼계초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812725028100190000061726</rdnmadr_cd>
+    <bdong_cd>4812725028</bdong_cd>
+    <hdong_cd>4812725000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 내서읍 삼계리 19</dtl_adres>
+    <fclty_ar>2860.0000</fclty_ar>
+    <xcord>128.500433</xcord>
+    <ycord>35.232249</ycord>
+  </row>
+  <row>
+    <arcd>4812700000</arcd>
+    <acmdfclty_sn>3</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시 마산회원구</sgg_nm>
+    <vt_acmdfclty_nm>전안초등학교 운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812725029113730000014457</rdnmadr_cd>
+    <bdong_cd>4812725029</bdong_cd>
+    <hdong_cd>4812725000</hdong_cd>
+    <dtl_adres>경상남도 창원시 마산회원구 내서읍 신감리 1373</dtl_adres>
+    <fclty_ar>3072.0000</fclty_ar>
+    <xcord>128.502468</xcord>
+    <ycord>35.217786</ycord>
+  </row>
+  <row>
+    <arcd>4812000000</arcd>
+    <acmdfclty_sn>2</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시</sgg_nm>
+    <vt_acmdfclty_nm>도천초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812725023100714301057953</rdnmadr_cd>
+    <bdong_cd>4812910200</bdong_cd>
+    <hdong_cd>4812910200</hdong_cd>
+    <dtl_adres>경상남도 창원시 진해구 도천동 12</dtl_adres>
+    <fclty_ar>3490.0000</fclty_ar>
+    <xcord>128.654071</xcord>
+    <ycord>35.151827</ycord>
+  </row>
+  <row>
+    <arcd>4812000000</arcd>
+    <acmdfclty_sn>25</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시</sgg_nm>
+    <vt_acmdfclty_nm>진해종합운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812910300100010000003952</rdnmadr_cd>
+    <bdong_cd>4812910300</bdong_cd>
+    <hdong_cd>4812951000</hdong_cd>
+    <dtl_adres>경상남도 창원시 진해구 도만동 1</dtl_adres>
+    <fclty_ar>22303.0000</fclty_ar>
+    <xcord>128.654931</xcord>
+    <ycord>35.148575</ycord>
+  </row>
+  <row>
+    <arcd>4812000000</arcd>
+    <acmdfclty_sn>3</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시</sgg_nm>
+    <vt_acmdfclty_nm>남산초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812911500100280013004450</rdnmadr_cd>
+    <bdong_cd>4812911500</bdong_cd>
+    <hdong_cd>4812952000</hdong_cd>
+    <dtl_adres>경상남도 창원시 진해구 제황산동 28-13</dtl_adres>
+    <fclty_ar>3265.0000</fclty_ar>
+    <xcord>128.663165</xcord>
+    <ycord>35.147647</ycord>
+  </row>
+  <row>
+    <arcd>4812000000</arcd>
+    <acmdfclty_sn>4</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시</sgg_nm>
+    <vt_acmdfclty_nm>제황초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd></rdnmadr_cd>
+    <bdong_cd>4812911500</bdong_cd>
+    <hdong_cd>4812911500</hdong_cd>
+    <dtl_adres>경상남도 창원시 진해구 제황산동 28-2</dtl_adres>
+    <fclty_ar>3041.0000</fclty_ar>
+    <xcord>128.669741</xcord>
+    <ycord>35.148162</ycord>
+  </row>
+  <row>
+    <arcd>4812000000</arcd>
+    <acmdfclty_sn>5</acmdfclty_sn>
+    <ctprvn_nm>경상남도</ctprvn_nm>
+    <sgg_nm>창원시</sgg_nm>
+    <vt_acmdfclty_nm>대야초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4812913700101500000003877</rdnmadr_cd>
+    <bdong_cd>4812913700</bdong_cd>
+    <hdong_cd>4812954000</hdong_cd>
+    <dtl_adres>경상남도 창원시 진해구 여좌동 150</dtl_adres>
+    <fclty_ar>4200.0000</fclty_ar>
+    <xcord>128.663695</xcord>
+    <ycord>35.159267</ycord>
+  </row>
+  <row>
+    <arcd>4773000000</arcd>
+    <acmdfclty_sn>44</acmdfclty_sn>
+    <ctprvn_nm>경상북도</ctprvn_nm>
+    <sgg_nm>의성군</sgg_nm>
+    <vt_acmdfclty_nm>단북초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4773042028108010000010830</rdnmadr_cd>
+    <bdong_cd>4773042028</bdong_cd>
+    <hdong_cd>4773042000</hdong_cd>
+    <dtl_adres>경상북도 의성군 단북면 이연리 801</dtl_adres>
+    <fclty_ar>4094.0000</fclty_ar>
+    <xcord>128.406865</xcord>
+    <ycord>36.390110</ycord>
+  </row>
+  <row>
+    <arcd>4773000000</arcd>
+    <acmdfclty_sn>48</acmdfclty_sn>
+    <ctprvn_nm>경상북도</ctprvn_nm>
+    <sgg_nm>의성군</sgg_nm>
+    <vt_acmdfclty_nm>안계중학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4773043030110090001010263</rdnmadr_cd>
+    <bdong_cd>4773043030</bdong_cd>
+    <hdong_cd>4773043000</hdong_cd>
+    <dtl_adres>경상북도 의성군 안계면 용기리 1009-1</dtl_adres>
+    <fclty_ar>6502.0000</fclty_ar>
+    <xcord>128.430491</xcord>
+    <ycord>36.386645</ycord>
+  </row>
+  <row>
+    <arcd>4773000000</arcd>
+    <acmdfclty_sn>47</acmdfclty_sn>
+    <ctprvn_nm>경상북도</ctprvn_nm>
+    <sgg_nm>의성군</sgg_nm>
+    <vt_acmdfclty_nm>안계고등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4773043030108100000008807</rdnmadr_cd>
+    <bdong_cd>4773043030</bdong_cd>
+    <hdong_cd>4773043000</hdong_cd>
+    <dtl_adres>경상북도 의성군 안계면 용기리 810</dtl_adres>
+    <fclty_ar>9838.0000</fclty_ar>
+    <xcord>128.433936</xcord>
+    <ycord>36.382572</ycord>
+  </row>
+  <row>
+    <arcd>4773000000</arcd>
+    <acmdfclty_sn>45</acmdfclty_sn>
+    <ctprvn_nm>경상북도</ctprvn_nm>
+    <sgg_nm>의성군</sgg_nm>
+    <vt_acmdfclty_nm>안계초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4773043031101100015015031</rdnmadr_cd>
+    <bdong_cd>4773043031</bdong_cd>
+    <hdong_cd>4773043000</hdong_cd>
+    <dtl_adres>경상북도 의성군 안계면 토매리 110-15</dtl_adres>
+    <fclty_ar>6568.0000</fclty_ar>
+    <xcord>128.444980</xcord>
+    <ycord>36.381674</ycord>
+  </row>
+  <row>
+    <arcd>4773000000</arcd>
+    <acmdfclty_sn>89</acmdfclty_sn>
+    <ctprvn_nm>경상북도</ctprvn_nm>
+    <sgg_nm>의성군</sgg_nm>
+    <vt_acmdfclty_nm>교촌녹색농촌체험학교</vt_acmdfclty_nm>
+    <rdnmadr_cd>4773043033103500000015832</rdnmadr_cd>
+    <bdong_cd>4773043033</bdong_cd>
+    <hdong_cd>4773043000</hdong_cd>
+    <dtl_adres>경상북도 의성군 안계면 교촌리 350-0</dtl_adres>
+    <fclty_ar>3289.0000</fclty_ar>
+    <xcord>128.433642</xcord>
+    <ycord>36.382894</ycord>
+  </row>
+  <row>
+    <arcd>4773000000</arcd>
+    <acmdfclty_sn>50</acmdfclty_sn>
+    <ctprvn_nm>경상북도</ctprvn_nm>
+    <sgg_nm>의성군</sgg_nm>
+    <vt_acmdfclty_nm>다인초등학교운동장</vt_acmdfclty_nm>
+    <rdnmadr_cd>4773044036101310002017419</rdnmadr_cd>
+    <bdong_cd>4773044036</bdong_cd>
+    <hdong_cd>4773044000</hdong_cd>
+    <dtl_adres>경상북도 의성군 다인면 서릉리 120-1</dtl_adres>
+    <fclty_ar>6273.0000</fclty_ar>
+    <xcord>128.357216</xcord>
+    <ycord>36.448638</ycord>
+  </row>
+  <row>
+    <arcd>4773000000</arcd>
+    <acmdfclty_sn>90</acmdfclty_sn>
+    <ctprvn_nm>경상북도</ctprvn_nm>
+    <sgg_nm>의성군</sgg_nm>
+    <vt_acmdfclty_nm>남산공원</vt_acmdfclty_nm>
+    <rdnmadr_cd>4773044036100430000054395</rdnmadr_cd>
+    <bdong_cd>4773044036</bdong_cd>
+    <hdong_cd>4773044000</hdong_cd>
+    <dtl_adres>경상북도 의성군 다인면 서릉리 43-0</dtl_adres>
+    <fclty_ar>3009.0000</fclty_ar>
+    <xcord>128.431372</xcord>
+    <ycord>36.386376</ycord>
+  </row>
+</EarthquakeOutdoorsShelter>
+
